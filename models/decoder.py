@@ -1,1 +1,1 @@
-
+# Decoder model definition
