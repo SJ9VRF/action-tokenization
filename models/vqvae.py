@@ -1,1 +1,1 @@
-
+# VQ-VAE model definition
